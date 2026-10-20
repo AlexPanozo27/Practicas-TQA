@@ -13,3 +13,5 @@ git status / git log --oneline   # revisar estado e historial
 git checkout -b <rama>           # trabajar en una rama nueva
 git pull origin main             # traer cambios del remoto
 ```
+
+Repositorios creados y subidos con estos comandos el 19/10/2026.
